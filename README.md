@@ -31,9 +31,21 @@ Datasets are provided in the files of the repository
 ## 📷 Dashboard Preview
 ![image](https://github.com/Watchignite/Data-Analysis-Dashboard-project/blob/main/zomato_power%20BI.png)
 ## 📐 DAX Measures Used
-Total_Amount = SUM(Measure_Table[Sale_Value])
-Total_Quantity = SUM(orders[Order_Count])
-Total_Ratings = SUM(orders[Rating_Count])
-Total_Orders = COUNT(orders[order_id])
-TopN_values = RANKX(ALL(orders[city]),[Sale_value],,DESC)                                                                                                       
+● Total_Amount = SUM(Measure_Table[Sale_Value])<br>
+● Total_Quantity = SUM(orders[Order_Count])<br>
+● Total_Ratings = SUM(orders[Rating_Count])<br>
+● Total_Orders = COUNT(orders[order_id])<br>
+● TopN_values = RANKX(ALL(orders[city]),[Sale_value],,DESC)<br>                                                                                                      
 etc
+## 🌟 Features
+● KPI Cards (Sales, Quantity, Ratings, Orders)<br>
+● Category Images + Ratings<br>
+● Top N City Bar Charts<br>
+● Yearly Sales Line Chart<br>
+● Modern UI with icons and custom visuals<br>
+● Dynamic measures for Amount vs Quantity
+## 📌 Future Enhancements
+● Add map-based city analysis<br>
+● Add forecast analytics<br>
+● Add restaurant-level performance<br>
+● Add user-level behavioral segmentation
