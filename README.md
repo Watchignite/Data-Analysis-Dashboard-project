@@ -49,3 +49,31 @@ etc
 ● Add forecast analytics<br>
 ● Add restaurant-level performance<br>
 ● Add user-level behavioral segmentation
+## ✅ Conclusion & Findings
+The Zomato Power BI Dashboard provides a clear and insightful overview of business performance across sales, orders, ratings, and city-wise demand. The analysis highlights the key areas contributing to growth and customer engagement while also revealing patterns in ordering behavior.
+
+Key Findings
+● High Sales Performance:
+The total sales amount reached 987M, indicating strong business volume and high customer demand.
+● Top-Performing Cities:
+Electronic City leads in overall sales quantity, followed by Old Gurgaon and Gorakhpur, showing strong regional performance.
+● Category Insights:
+Veg category performs best with 156K+ orders,
+Non-Veg maintains a strong share with 140K,
+Other items contribute moderately.
+This indicates a balanced preference among customers with a slight inclination toward Veg items.
+● Customer Engagement:
+With 148K ratings, Zomato shows high customer interaction and feedback activity.
+● Yearly Sales Trend:
+Sales peaked in 2018 with 1M+,
+Gradual decline seen after 2018,
+Indicates potential market distribution changes or seasonal fluctuations.
+● Strong Operational Volume:
+Over 150K orders show consistent platform usage and strong user retention.
+## ✅ Conclusion
+This Power BI dashboard successfully consolidates complex Zomato datasets into a visually intuitive format that helps in understanding overall business health. It highlights customer preferences, top-performing locations, and yearly growth patterns. These insights can assist decision-makers in:
+● Improving regional marketing strategies
+● Strengthening food category offerings
+● Tracking business performance over time
+● Identifying high-potential locations for expansion
+Overall, the dashboard provides a comprehensive, data-driven view of Zomato’s operational and sales performance.
