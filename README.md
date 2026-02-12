@@ -79,5 +79,5 @@ This Power BI dashboard successfully consolidates complex Zomato datasets into a
 Overall, the dashboard provides a comprehensive, data-driven view of Zomato’s operational and sales performance.
 ## 👨‍💻 Author
 ## Charan Reddy
-##Data Analyst | Power BI Developer
-##📍 India
+Data Analyst | Power BI Developer<br>
+📍 India
