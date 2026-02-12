@@ -26,3 +26,7 @@ This dashboard helps users quickly understand customer behavior, top-performing 
 ● Power Query<br>
 ● DAX (Data Analysis Expressions)<br>
 ● CSV Files/Excel  (Orders, Menu, Food Data)
+## 📂 Project Files
+Datasets are provided in the files of the repository
+## 📷 Dashboard Preview
+![image](https://github.com/Watchignite/Data-Analysis-Dashboard-project/blob/main/zomato_power%20BI.png)
