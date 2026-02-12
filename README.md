@@ -15,3 +15,14 @@ The dashboard provides insights into:
 ● Yearly sales trend<br>
 ● Dynamic toggle between Amount & Quantity<br>
 This dashboard helps users quickly understand customer behavior, top-performing locations, and overall business growth trends.
+## 📈 Key Insights
+● Electronic City ranks highest in sales quantity.<br>
+● Veg category has the strongest performance with 156K quantity.<br>
+● Sales peaked in 2018 and declined slightly after.<br>
+● Strong customer engagement with 148K ratings.<br>
+● Total sales amount crosses 987M.
+## 🛠️ Technologies Used
+● Power BI Desktop<br>
+● Power Query<br>
+● DAX (Data Analysis Expressions)<br>
+● CSV Files/Excel  (Orders, Menu, Food Data)
