@@ -30,3 +30,10 @@ This dashboard helps users quickly understand customer behavior, top-performing 
 Datasets are provided in the files of the repository
 ## 📷 Dashboard Preview
 ![image](https://github.com/Watchignite/Data-Analysis-Dashboard-project/blob/main/zomato_power%20BI.png)
+## 📐 DAX Measures Used
+Total_Amount = SUM(Measure_Table[Sale_Value])
+Total_Quantity = SUM(orders[Order_Count])
+Total_Ratings = SUM(orders[Rating_Count])
+Total_Orders = COUNT(orders[order_id])
+TopN_values = RANKX(ALL(orders[city]),[Sale_value],,DESC)                                                                                                       
+etc
