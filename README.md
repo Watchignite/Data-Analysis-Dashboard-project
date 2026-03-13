@@ -72,7 +72,7 @@ Indicates potential market distribution changes or seasonal fluctuations.<br>
 Over 150K orders show consistent platform usage and strong user retention.
 ## ✅ Conclusion
 This Power BI dashboard successfully consolidates complex Zomato datasets into a visually intuitive format that helps in understanding overall business health. It highlights customer preferences, top-performing locations, and yearly growth patterns. These insights can assist decision-makers in:<br>
-● Improving regional marketing strategies<br>
+● Improving regional marketing strategical ideas <br>
 ● Strengthening food category offerings<br>
 ● Tracking business performance over time<br>
 ● Identifying high-potential locations for expansion<br>
